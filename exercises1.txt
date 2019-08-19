@@ -1,0 +1,26 @@
+1.	Newton Second Law
+•	DEFINE mass equals 600 kg
+•	DEFINE accelaration equals 2m/s^2
+•	CALCULATE mass times accelaration
+•	GET resultant force equals 1200 N
+
+2.	Tahun Kabisat 
+•	INPUT year
+•	IF year mod 4 equals zero then
+•	If year mod 100 equals not zero OR year MOD 100 equals zero AND year MOD
+•	400 equals zero
+•	DEFINE year as kabisat
+
+3.	Laundry Day
+•	DEFINE clothes equals 0
+•	FOR clothes less than 20
+•	INPUT 1 clothes
+•	EXECUTE washing machine
+
+4.	Periksa Kuku
+•	Teacher CHECKING student’s nails
+•	IF student’s nail long enough
+•	Teacher punish than student
+•	ELSE
+•	Teacher compliment that student
+
